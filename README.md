@@ -19,6 +19,7 @@ Per visualtzar-los he fet servir:
 
 ## Exercici 2
 
-* M'he donat d'alta a **GITHUB** i he apres **MARKDOWN**
+* M'he donat d'alta a **GITHUB**
+* He fet un curs intensiu de **MARKDOWN**, molt interessant.
 * He pujat el arxius anteriors al [repositori](https://github.com/bielalzina/LMSGI)
 * He fet servir raw.githack.com per visualitzar [**_el meu codi HTML_**](https://raw.githack.com/bielalzina/LMSGI/master/codi_HTML.html)
