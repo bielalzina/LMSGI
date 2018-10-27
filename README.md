@@ -2,7 +2,7 @@
 
 ## Exercici 1
 
-He creat tres documents:
+He creat tres arxius:
 * codi_HTML.html
 * codi_RTF.rtf
 * codi_XML.xml
