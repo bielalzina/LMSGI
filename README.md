@@ -14,7 +14,7 @@ Per crear el fitxer RTF he fet servir el _bloc de notes_, per l'HTML m'he ajudat
 Per visualtzar-los he fet servir:
 
 1. codi_HTML.html: un navegador qualsevol, [Google Chrome](https://drive.google.com/file/d/1OxKaLlw0QriALtwlBgFDBZsI6idz3L99/view?usp=sharing)
-2. codi_RTF.rtf: un processador de tex, OpenOffice
-3. codi_XML.xml: un full de calcul, Excel
+2. codi_RTF.rtf: un processador de tex, [OpenOffice](https://drive.google.com/file/d/1F26BWTWiz68z94VTV8M7Ko30sSucc-Q8/view?usp=sharing)
+3. codi_XML.xml: un full de calcul, [Excel](https://drive.google.com/file/d/1vaeoT0XW7d3_6x-Nd07Cj47NTN9BKP9M/view?usp=sharing)
 
 
