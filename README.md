@@ -17,4 +17,8 @@ Per visualtzar-los he fet servir:
 2. codi_RTF.rtf: un processador de tex, [OpenOffice](https://drive.google.com/file/d/1F26BWTWiz68z94VTV8M7Ko30sSucc-Q8/view?usp=sharing)
 3. codi_XML.xml: un full de calcul, [Excel](https://drive.google.com/file/d/1vaeoT0XW7d3_6x-Nd07Cj47NTN9BKP9M/view?usp=sharing)
 
+## Exercici 2
 
+* M'he donat d'alta a **GITHUB** i he apres **MARKDOWN**
+* He pujat el arxius anteriors al [repositori](https://github.com/bielalzina/LMSGI)
+* He fet servir raw.githack.com per visualitzar [**_el meu codi HTML_**](https://raw.githack.com/bielalzina/LMSGI/master/codi_HTML.html)
