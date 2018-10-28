@@ -29,6 +29,6 @@ Per visualtzar-los he fet servir:
 2. He fet un curs intensiu de **MARKDOWN**, molt interessant.
 3. He pujat el arxius anteriors al [repositori](https://github.com/bielalzina/LMSGI)
 4. He fet servir raw.githack.com per visualitzar [**_el meu codi HTML_**](https://raw.githack.com/bielalzina/LMSGI/master/codi_HTML.html)
-5. Per acabar he editat aquest arxiu **_readme.md_**, fen servir el que he apres amb el tutorial de MARKDOWN
+5. Per acabar he editat aquest arxiu **_readme.md_**, fent servir el que he apres amb el tutorial de MARKDOWN
 
-> Gabriel Alzina Alomar
+> GABRIEL ALZINA ALOMAR
