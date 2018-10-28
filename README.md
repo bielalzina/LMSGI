@@ -4,8 +4,14 @@
 
 He creat tres arxius:
 * codi_HTML.html
+
+ ![codi_html](https://github.com/bielalzina/LMSGI/blob/master/captures/html_code.png)
 * codi_RTF.rtf
+
+![codi_rtf](https://github.com/bielalzina/LMSGI/blob/master/captures/rtf_code.png)
 * codi_XML.xml
+
+![codi_xml](https://github.com/bielalzina/LMSGI/blob/master/captures/xml_code.png)
 
 Dels anteriors codis, el que conec més es el codi **HTML**, alguns cops he accedit a fitxers **XML** i sabia de l'existencia de fitxers **RTF** (però desconeixia que inclou codi de marques).
 
@@ -19,7 +25,10 @@ Per visualtzar-los he fet servir:
 
 ## Exercici 2
 
-* M'he donat d'alta a **GITHUB**
-* He fet un curs intensiu de **MARKDOWN**, molt interessant.
-* He pujat el arxius anteriors al [repositori](https://github.com/bielalzina/LMSGI)
-* He fet servir raw.githack.com per visualitzar [**_el meu codi HTML_**](https://raw.githack.com/bielalzina/LMSGI/master/codi_HTML.html)
+1. M'he donat d'alta a **GITHUB**
+2. He fet un curs intensiu de **MARKDOWN**, molt interessant.
+3. He pujat el arxius anteriors al [repositori](https://github.com/bielalzina/LMSGI)
+4. He fet servir raw.githack.com per visualitzar [**_el meu codi HTML_**](https://raw.githack.com/bielalzina/LMSGI/master/codi_HTML.html)
+5. Per acabar he editat aquest arxiu **_readme.md_**, fen servir el que he apres amb el tutorial de MARKDOWN
+
+> Gabriel Alzina Alomar
